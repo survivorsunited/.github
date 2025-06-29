@@ -1,7 +1,7 @@
 # Survivors United Organization
 
 
-## 🙋‍♀️ A short introduction - what is your organization all about?
+## 🙋‍♀️ A short introduction
 
 **Survivors United** is a compassionate Minecraft survival community where players come together to build, explore, and survive in a supportive, family-friendly environment. We're more than just a server - we're a family of builders, explorers, and survivors who believe in collaboration over competition.
 
@@ -25,7 +25,7 @@
 - **Inclusivity**: Welcome players from all backgrounds and skill levels
 - **Cooperation**: Work together to survive and thrive
 
-## 🌈 Contribution guidelines - how can the community get involved?
+## 🌈 Contribution guidelines
 
 We welcome contributions from all community members! Here's how you can get involved:
 
@@ -61,7 +61,7 @@ We welcome contributions from all community members! Here's how you can get invo
 - **Ask Questions**: Don't hesitate to ask for help or clarification
 - **Stay Family-Friendly**: Keep content appropriate for all ages
 
-## 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+## 👩‍💻 Useful resources
 
 ### 📚 Documentation Hub
 Our comprehensive documentation is organized into several sections:
@@ -105,90 +105,9 @@ Our comprehensive documentation is organized into several sections:
 - **Voice Channels**: Real-time voice coordination (planned)
 - **Event Channels**: Dedicated spaces for community events
 
-## 🍿 Fun facts - what does your team eat for breakfast?
-
-### 🥞 Community Breakfast Traditions
-- **Server Admins**: Coffee and determination (lots of both!)
-- **Moderators**: Tea and patience (essential for community management)
-- **Builders**: Pancakes and creativity (fuel for amazing structures)
-- **Documentation Team**: Granola and organization (keeps everything structured)
-- **New Players**: Cereal and excitement (ready to explore!)
-- **Community Leaders**: Oatmeal and wisdom (steady and reliable)
-
-### 🎮 Minecraft Fun Facts
-- Our server has been running since 2023 with zero major incidents
-- We've helped over 500+ players set up Minecraft with mods
-- Our community farms produce enough iron to build a real-life skyscraper (if Minecraft physics applied)
-- The longest continuous building session was 18 hours (with breaks for food!)
-- We have players from 15+ different countries
-- Our Discord server has over 200 active members
-
-### 🏗️ Community Achievements
-- **Largest Build**: A medieval castle that took 3 months to complete
-- **Most Complex Farm**: An automated villager trading system with 50+ villagers
-- **Biggest Event**: 25 players participated in a community build day
-- **Fastest Setup**: New player went from zero to playing in 23 minutes
-- **Most Helpful**: One player has helped 100+ new members get started
-- **Longest Session**: 18-hour building marathon (with food breaks!)
-
 ### 🎯 What We're Working On
 - **Enhanced Lobby System**: Better coordination for community events
-- **Mobile App**: Companion app for server status and community updates
-- **Video Tutorials**: Visual guides for complex setups
-- **Community Challenges**: Monthly building and survival challenges
-- **International Expansion**: Supporting more languages and time zones
-- **Community Events**: Regular build days and special events
-
-### 🌍 Community Diversity
-- **Age Range**: Players from 13 to 65+ years old
-- **Geographic Spread**: 15+ countries represented
-- **Skill Levels**: From complete beginners to veteran players
-- **Play Styles**: Builders, explorers, farmers, and everything in between
-- **Languages**: English primary, with plans for multilingual support
-
-## 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-This organization README is built with the power of Markdown and showcases how we use it throughout our community documentation. From installation guides to community guidelines, Markdown helps us create clear, organized, and beautiful documentation that's easy to read and contribute to.
-
-### 🎨 Markdown Features We Use
-- **Code Blocks**: For server addresses and commands
-- **Tables**: For mod lists and server information
-- **Links**: For cross-referencing documentation
-- **Images**: For screenshots and visual guides
-- **Lists**: For step-by-step instructions
-- **Headers**: For organized content structure
-- **Emojis**: For fun and engaging content
-
-### 📝 Community Documentation Examples
-- **Installation Guides**: Step-by-step setup instructions
-- **Server Rules**: Clear community guidelines
-- **Event Announcements**: Community updates and news
-- **Build Showcases**: Sharing community creations
-- **Tutorial Content**: Educational resources for players
-
----
 
 **Ready to join our community?** Start with our [Getting Started Guide](https://survivorsunited.org/docs/getting-started) and connect with us on [Discord](https://discord.gg/kwdaEmmv)!
 
 *Survivors United - Where we build, survive, and thrive together! 🏗️⚔️🌿*
-
----
-
-## 📞 Contact Information
-
-- **Discord**: [Join our community](https://discord.gg/kwdaEmmv)
-- **Website**: [survivorsunited.org](https://survivorsunited.org)
-- **Minecraft Server**: `server.survivorsunited.org`
-- **Email**: Contact through Discord for now
-- **GitHub**: [survivorsunited](https://github.com/survivorsunited)
-
-## 📄 License
-
-This organization and its community guidelines are open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- Built by the Minecraft community, for the Minecraft community
-- Powered by the amazing Docusaurus documentation framework
-- Hosted on GitHub Pages for reliable access
-- Supported by our wonderful community members 
